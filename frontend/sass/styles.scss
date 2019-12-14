@@ -1,0 +1,10 @@
+// @import '../../node_modules/swiper/dist/css/swiper.css';
+@import 'normalize-scss';
+@include normalize();
+
+@import 'fonts';
+@import 'variables';
+@import 'mixins';
+@import 'main';
+
+// @import './blocks/header';
